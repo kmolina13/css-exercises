@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.part1,
+.part2 {
+    font-size: 28px;
+    font-family: Helvetia, 'Times New Roman', sans-serif;
+}
+
+.part1 {
+    background-color: black;
+    color: white;
+}
+
+.part2 {
+    background-color: yellow;
+}
