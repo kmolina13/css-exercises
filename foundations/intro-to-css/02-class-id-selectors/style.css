@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.part1 {
+    background-color: #ce0059;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.part1.bigger {
+    font-size: 24px;
+}
+
+#unique1 {
+    font-size: 36px;
+    color: #012169;
+}
+
+#unique2 {
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
+}
