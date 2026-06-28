@@ -1,0 +1,92 @@
+* {
+    font-family: 'Roboto';
+}
+
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.header {
+    background-color: #1f2937;
+}
+
+.header-links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header-title {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.header-subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    flex: auto;
+    text-align: center;
+}
+
+button {
+    background-color: #3882f6;
+    color: White;
+    font-weight: 600;    
+}
+
+.middle-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.section2 {
+    background-color: white;
+}
+
+.section3 {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.quoteText {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.section4 {
+    background-color: white;    
+}
+
+.CallOutBox {
+    background-color: white;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    justify-content: right;
+}
+
+.CallOutBold {
+    color: White;
+    background-color: #3882f6;    
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.CallOutSubText {
+    color: #e5e7eb;
+    background-color: #3882f6;    
+}
